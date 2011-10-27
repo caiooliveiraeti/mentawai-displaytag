@@ -10,7 +10,7 @@
 
 + mvn jetty:run
 
-+ Abra o browser e acesse: http://localhost:9090
++ Abra o browser e acesse: http://localhost:9090/mentawai-displaytag
 
 ##Usando no Eclipse.
 
