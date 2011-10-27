@@ -1,0 +1,1 @@
+<jsp:forward page="cadastro/cliente.form.mtw" />
