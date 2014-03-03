@@ -2,7 +2,7 @@
 
 ##Clonando o Projeto.
 
-+ git clone git@github.com:caiogithub/mentawai-displaytag.git
++ git clone git@github.com:caiooliveiraeti/mentawai-displaytag.git
 
 + cd mentawai-displaytag
 
