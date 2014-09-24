@@ -17,6 +17,11 @@
 			<artifactId>displaytag</artifactId>
 			<version>1.2</version>
 		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.5.6</version>
+		</dependency>
 		
 		<dependency>
 			<groupId>javax</groupId>
